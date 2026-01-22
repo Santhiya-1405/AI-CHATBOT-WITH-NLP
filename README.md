@@ -21,5 +21,6 @@ The chatbot runs in a command-line environment and continues interaction until t
 
 output :
 
-![img]("https://github.com/user-attachments/assets/1cfb8e0b-d4ea-4c54-b3c4-31df096a8f55")
+<img width="773" height="413" alt="Screenshot 2026-01-22 174038" src="https://github.com/user-attachments/assets/f2355fd4-dbd4-4950-a5d2-1ce666be674d" />
+
 

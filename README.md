@@ -2,7 +2,7 @@
 
 Company : CODTECH IT SOLUTION
 
-Name : Santhiya E
+Name : Santhiya
 
 Intern ID : CTIS1228
 
